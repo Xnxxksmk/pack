@@ -2,7 +2,7 @@
 
 ## شلونك سيد؟
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xnxxksmk/pack)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xnxxksmk/pack)
 
 ## شكـرا لي September 
 

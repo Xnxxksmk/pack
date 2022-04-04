@@ -4,7 +4,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xnxxksmk/pack)
 
-## شكـرا لي September 
+## شكـرا لي
 
 
 this userbot is import of catuserbot and translate to arabic
